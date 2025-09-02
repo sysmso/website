@@ -14,7 +14,6 @@ lightgallery: true
 ---
 
 Atelier Docker été 2020 laboratoire APC
-
 3 TP de 4h en présentiel autour de l'intégration continue et Docker.
 
 Lien vers le tutoriel : https://souchal.pages.in2p3.fr/atelier-docker/

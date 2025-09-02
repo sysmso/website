@@ -1,4 +1,4 @@
-baseURL = "https://souchal.pages.in2p3.fr/hugo-perso/"
+baseURL = "https://sysmso.github.io/website/"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 # website title
@@ -305,11 +305,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # Gravatar Email for preferred avatar in home page
 
-      gravatarEmail = "martin.souchal@inrae.fr"
+      #gravatarEmail = "martin.souchal@inrae.fr"
 
       # URL of avatar shown in home page
 
-      avatarURL = "/images/avatar.png"
+      avatarURL = "moi.jpg"
 
       #  title shown in home page (HTML format is supported)
 
@@ -325,7 +325,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # whether to show social links
 
-      social = false
+      social = true
 
       #  disclaimer (HTML format is supported)
 
@@ -353,10 +353,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   [params.social]
 
-    GitHub = "https://github.com/sysmso"
-    Linkedin = ""
+    GitHub = "sysmso"
+    Linkedin = "martin-souchal-7a28449b/"
     Gitlab = "https://gitlab.in2p3.fr/souchal"
-    Mastodon = ""
+    Mastodon = "https://mamot.fr/@getcha"
     Email = "martin.souchal@inrae.fr"
     RSS = true #
 
