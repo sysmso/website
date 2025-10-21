@@ -7,7 +7,7 @@ language: fr
 images: []
 resources:
 - name: "featured-image"
-  src: "container.jpg"
+  src: "docker.jpg"
 
 lightgallery: true
 ---
